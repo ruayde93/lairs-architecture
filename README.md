@@ -54,11 +54,15 @@ SentiNet ensures that AI systems operate inside a cryptographically enforced, ze
 
 The platform is extended through a family of Sentinel modules that plug into both LAIRS and SentiNet:
 
-Module	Purpose
-Sentinel Watchdog	System integrity, telemetry, and anomaly detection
-Sentinel Gate	Network, policy, and access control enforcement
-Sentinel AV	File and behavior scanning
-Sentinel Forge	Patch generation and upgrade advisory system (human-approved only)
+Module	Purpose:
+
+Sentinel Watchdog	System: integrity, telemetry, and anomaly detection
+
+Sentinel Gate	Network: policy, and access control enforcement
+
+Sentinel AV:	File and behavior scanning
+
+Sentinel Forge:	Patch generation and upgrade advisory system (human-approved only)
 
 Each module is designed to be:
 
